@@ -1,0 +1,115 @@
+line 8: using(0) namespace(6) 
+
+line 10: const(0) int(6) 
+
+line 12: void(0) const(19) 
+
+line 13: void(0) char(20) int(32) const(48) 
+
+line 14: bool(0) const(24) char(30) const(42) 
+
+line 15: void(0) char(17) 
+
+line 16: void(0) 
+
+line 17: void(0) 
+
+line 19: int(0) 
+
+line 21: const(4) 
+
+line 22: const(4) 
+
+line 23: char(4) 
+
+line 26: new(25) 
+
+line 32: int(4) 
+
+line 36: if(4) 
+
+line 42: while(4) 
+
+line 45: sizeof(27) 
+
+line 46: if(8) break(23) 
+
+line 50: delete(4) 
+
+line 53: void(0) char(20) int(32) const(48) 
+
+line 55: char(4) 
+
+line 58: while(4) 
+
+line 60: if(8) 
+
+line 70: void(0) const(19) 
+
+line 74: if(4) 
+
+line 82: for(4) int(9) 
+
+line 89: bool(0) const(24) char(30) const(42) 
+
+line 91: int(4) 
+
+line 96: int(4) 
+
+line 98: while(4) 
+
+line 103: if(8) 
+
+line 107: else(8) if(13) 
+
+line 111: else(8) 
+
+line 113: return(12) true(19) 
+
+line 118: if(4) 
+
+line 120: if(8) 
+
+line 121: return(12) true(19) 
+
+line 125: if(4) 
+
+line 126: if(8) 
+
+line 127: return(12) true(19) 
+
+line 130: if(4) 
+
+line 131: if(8) 
+
+line 132: return(12) true(19) 
+
+line 134: return(4) false(11) 
+
+line 138: void(0) char(17) 
+
+line 140: for(4) 
+
+line 144: void(0) 
+
+line 146: for(4) 
+
+line 150: void(0) 
+
+line 152: int(4) 
+
+line 155: bool(4) 
+
+line 159: for(4) int(9) 
+
+line 162: false(16) 
+
+line 164: for(8) 
+
+line 167: if(12) 
+
+line 172: else(12) 
+
+line 174: true(24) 
+
+Number of keywords found : 84
